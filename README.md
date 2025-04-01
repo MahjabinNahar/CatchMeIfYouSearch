@@ -10,7 +10,7 @@ If you find this repo helpful to your research, please cite the paper:
 @inproceedings{nahar2025catch,
 title={Catch Me If You Search: When Contextual Web Search Results Affect the Detection of Hallucinations},
 author={Mahjabin Nahar and Eun-Ju Lee and Jin Won Park and Dongwon Lee},
-booktitle={First Conference on Language Modeling},
+booktitle={arXiv},
 year={2025},
 url={}
 }
