@@ -1,6 +1,6 @@
 # Catch Me If You Search: When Contextual Web Search Results Affect the Detection of Hallucinations
 
-This repository contains the data used to <em><strong>investigate human detection of varying degrees of LLM hallucination with and without contextual web search results</em></strong>.
+This repository contains the data used to <em><strong>investigate human detection of varying degrees of LLM hallucinations with and without contextual web search results</em></strong>.
 
 The work is to support the [arXiv](https://arxiv.org/) paper ["Catch Me If You Search: When Contextual Web Search Results Affect the Detection of Hallucinations"]() by Mahjabin Nahar, Eun-Ju Lee, Jin Won Park, Dongwon Lee.
 
