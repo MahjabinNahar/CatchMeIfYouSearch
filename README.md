@@ -12,7 +12,7 @@ title={Catch Me If You Search: When Contextual Web Search Results Affect the Det
 author={Mahjabin Nahar and Eun-Ju Lee and Jin Won Park and Dongwon Lee},
 booktitle={arXiv},
 year={2025},
-url={}
+url={https://arxiv.org/pdf/2504.01153}
 }
 ```
 
